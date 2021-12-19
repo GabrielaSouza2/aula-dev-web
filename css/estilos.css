@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: rgb(35, 21, 231);
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.teste1{
+
+    color: rgb(114, 11, 231);
+}
+
+.teste2{
+
+    color: darkred;
+}
+
+#teste3{
+    position: absolute;
+    left: 300px;
+
+}
+#teste4{
+    position: fixed;
+    left: 1050px;
+
+}
+#teste5{
+    position: relative;
+    left: 100px;
+
+}
